@@ -1,0 +1,15 @@
+{
+    "name": "simple-monorepo",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "scripts": {
+      "build:blog": "npm --prefix blog run build",
+      "build:blog2": "npm --prefix blog2 run build"
+    },
+
+    "dependencies": {
+        "netlify-cms-app": "^2.15.40"
+    }
+    
+  }
