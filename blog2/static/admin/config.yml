@@ -1,5 +1,5 @@
 backend:
-  name: github
+  name: git-gateway
   repo: Omdaprog/netlify_cms_monorepo
 
 media_folder: static/img
