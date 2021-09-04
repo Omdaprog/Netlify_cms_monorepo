@@ -1,6 +1,6 @@
 backend:
-  name: netlify_cms_monorepo
-  branch: master  # Branch to update (optional; defaults to master)
+  name: github
+  repo: Omdaprog/netlify_cms_monorepo
 
 media_folder: static/img
 public_folder: /img
