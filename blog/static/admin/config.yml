@@ -1,5 +1,5 @@
 backend:
-  name: netlify_cms_monorepo/blog
+  name: netlify_cms_monorepo
   branch: master  # Branch to update (optional; defaults to master)
 
 media_folder: static/img
