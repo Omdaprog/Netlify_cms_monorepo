@@ -24,7 +24,7 @@ collections:
       - { label: 'Body', name: 'body', widget: 'markdown' }
   - name: 'blog1'
     label: 'blog1'
-    folder: '../blog/content/blog'
+    folder: 'blog/content/blog'
     create: true
     slug: 'index'
     media_folder: ''
